@@ -1,5 +1,6 @@
-# Data folder
+# Data and ipynb checkpoint folder
 Data/
+*.ipynb_checkpoints/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
