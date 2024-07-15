@@ -1,6 +1,16 @@
 # Data and ipynb checkpoint folder
-Data/
+Data/*
 *.ipynb_checkpoints/
+.cpg
+.dbf
+.prj
+.shp
+.shx
+.csv
+.xls
+.xlsx
+.qgz
+.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
